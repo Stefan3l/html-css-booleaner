@@ -11,3 +11,14 @@ header {
     
 }
 
+.last-column {
+    width: 60%;
+}
+
+.theader {
+    background-color: #20A9E5;
+}
+
+.tbody {
+    background-color: #B1E5F2;
+}
