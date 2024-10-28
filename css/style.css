@@ -23,9 +23,14 @@ header {
     background-color: #B1E5F2;
 }
 
-h3 {
-    color: grey;
+.nav {
+    color: #808080;
 }
+
+h2 {
+    color: #808080;
+}
+
 
 .box-img {
     width: 300px;
@@ -33,9 +38,6 @@ h3 {
     color: white; 
 }
 
-h4 {
-
-}
 
 #monitor {
     background-image: url(../img/monitor.jpg);
