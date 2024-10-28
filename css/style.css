@@ -22,3 +22,25 @@ header {
 .tbody {
     background-color: #B1E5F2;
 }
+
+h3 {
+    color: grey;
+}
+
+.box-img {
+    width: 300px;
+    height: 200px;
+    color: white; 
+}
+
+h4 {
+
+}
+
+#monitor {
+    background-image: url(../img/monitor.jpg);
+}
+
+#graph {
+    background-image: url(../img/graph.jpg);
+}
