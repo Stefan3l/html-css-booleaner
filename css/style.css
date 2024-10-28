@@ -31,7 +31,10 @@ h2 {
     color: #808080;
 }
 
-
+#table-dati {
+    border-collapse: collapse;
+    text-align: left;
+}
 .box-img {
     width: 312px;
     height: 208px;
